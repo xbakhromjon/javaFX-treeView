@@ -23,7 +23,7 @@ public class HelloController implements Initializable {
 
     @Override
     public void initialize(URL url, ResourceBundle resourceBundle) {
-        Path path = Path.of("/home/xbakhromjon/Pictures/folder.png");
+        Path path = Path.of("src/main/resources/images/folder.png");
         InputStream folderInputStream;
         try {
             folderInputStream = Files.newInputStream(path);
