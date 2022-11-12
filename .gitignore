@@ -146,3 +146,11 @@ fabric.properties
 # Android studio 3.1+ serialized cache file
 .idea/caches/build_file_checksums.ser
 
+/.idea/encodings.xml
+/.idea/git_toolbox_prj.xml
+/.idea/jpa-buddy.xml
+/.mvn/wrapper/maven-wrapper.properties
+/.idea/misc.xml
+/mvnw
+/mvnw.cmd
+/.idea/vcs.xml
